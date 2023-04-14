@@ -1,13 +1,13 @@
 
-nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #0f172a }
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #0f172a ; font-family: 'Inter', sans-serif;}
 
 header.theme-dark   { background-color: #0f172a }
 
-header.theme-dark  h1 { color: var(--sky-400); }
+header.theme-dark  h1 { color: var(--sky-400); font-family: 'Inter', sans-serif; }
 
-section.theme-dark   { background-color: #0f172a }
+section.theme-dark   { background-color: #0f172a; font-family: 'Inter', sans-serif; }
 
-footer.theme-dark   { background-color: #0f172a }
+footer.theme-dark   { background-color: #0f172a ; font-family: 'Inter', sans-serif;}
 
 
 
@@ -19,3 +19,7 @@ header .col-text h2, .col-1 > h3 { line-height: 1.8 }
    height: 4%;
    width: 4%;
  }
+
+ 
+
+

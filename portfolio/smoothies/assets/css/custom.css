@@ -35,4 +35,9 @@ section > p.deckhead { font-size: calc(24px + (42 - 24) * ((100vw - 320px) / (11
  
  .cols-2-half .col-2 h2, .cols-2-half .col-2 p { letter-spacing: 1px }  
 
+ .brand {
+   display: inline-block;
+  height: 4%;
+  width: 4%;
+}
  
